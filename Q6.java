@@ -25,6 +25,7 @@ public class Employee {
         // Return the value of the name variable
         return name;
     }
+    
 
     // Method to set the name of the employee
     public void setName(String name) {
