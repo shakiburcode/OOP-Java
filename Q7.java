@@ -18,6 +18,7 @@ public class Account {
         this.balance = balance;
     }
 
+    
     // Method to retrieve the name of the account holder
     public String getName() {
         // Return the value of the name variable
