@@ -2,6 +2,7 @@
 
 
 
+
 // Define the Dog class
 public class Dog {
     // Declare a private variable to store the name of the dog
