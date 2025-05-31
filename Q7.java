@@ -1,4 +1,3 @@
-
 // Account.java
 // Define the Account class
 public class Account {
