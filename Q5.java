@@ -1,7 +1,6 @@
 //Write a Java program to create a class called "Book" with attributes for title, author, and ISBN, and methods to add and remove books from a collection.
 //Book.java
 // Import the ArrayList class from the java.util package
-
 import java.util.ArrayList;
 
 // Define the Book class
