@@ -12,6 +12,7 @@ public class Circle {
         this.radius = radius;
     }
 
+    
     // Method to retrieve the radius of the circle
     public double getRadius() {
         // Return the value of the radius variable
