@@ -10,8 +10,6 @@ public class Account {
     private double balance;
 
 
-    
-
     // Constructor for the Account class that initializes the name, account number, and balance variables
     public Account(String name, String accountNumber, double balance) {
         // Set the name variable to the provided name parameter
