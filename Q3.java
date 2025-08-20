@@ -9,6 +9,7 @@ public class Rectangle {
     // Declare a private variable to store the height of the rectangle
     private double height;
 
+    
     // Constructor for the Rectangle class that initializes the width and height variables
     public Rectangle(double width, double height) {
         // Set the width variable to the provided width parameter
