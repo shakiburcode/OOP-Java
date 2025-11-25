@@ -10,7 +10,6 @@ public class Employee {
     // Declare a private variable to store the salary of the employee
     private double salary;
 
-    
     // Constructor for the Employee class that initializes the name, job title, and salary variables
     public Employee(String name, String jobTitle, double salary) {
         // Set the name variable to the provided name parameter
