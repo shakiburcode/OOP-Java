@@ -4,7 +4,6 @@
 import java.util.ArrayList;
 
 
-
 // Define the Book class
 public class Book {
     // Declare a private variable to store the title of the book
